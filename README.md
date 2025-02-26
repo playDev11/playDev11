@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Oladele Emmanuel Oluwaferanmi</h1>
-<h3 align="center">Hi, I'm Oluwaferanmi, a skilled frontend dev known for fast and precise concept-to-reality transformations, achieving 99% UI-TO-PRODUCT-TO MATCH || passionate about building scalable and efficient web applications</h3>
+<h3 align="center">i'm Oladele Emmanuel, a highly skilled frontend developer with a deep passion for building exceptional web experiences and also appealing and responsibilities landing pages. I specialize in React, Next.js, Tailwind CSS, and Three.js, and also cms platforms particularly wordpress, creating interfaces that are not just functional but also fast, responsive, and visually engaging.
+
+Beyond development, I’m also a mentor and educator, guiding aspiring developers to grow and succeed in tech. Having worked with multiple startups and edtech companies, I bring a strong mix of technical expertise, problem-solving skills, and leadership to any team.
+
+I take pride in delivering top-quality work, pushing boundaries, and making an impact. If you're looking for someone who’s not just great at what they do but also committed to driving results, I’m the right person for the job.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=playdev11&label=Profile%20views&color=0e75b6&style=flat" alt="playdev11" /> </p>
 
